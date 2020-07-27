@@ -37,7 +37,7 @@ Given 1 second training on cpu
 ### Person Video Results with 1 frame and 20 second training in cpu
 <div align="center">
   <a href="https://youtu.be/Ju-CBBEn0CU">
-    <img src="https://img.youtube.com/vi/CBBEn0CU/0.jpg" alt="Person Video Results" width="560" height="315">
+    <img src="https://img.youtube.com/vi/Ju-CBBEn0CU/0.jpg" alt="Person Video Results" width="560" height="315">
   </a>
  </div>
  
